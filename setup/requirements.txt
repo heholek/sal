@@ -15,7 +15,7 @@ ndg-httpsclient==0.3.2
 netaddr==0.7.18
 pyasn1==0.4.2
 pycparser==2.14
-pygments==2.2.0
+pygments==2.7.4
 pyOpenSSL==18.0.0
 python-dateutil==2.5.3
 python-memcached==1.57
